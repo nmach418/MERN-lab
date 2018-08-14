@@ -1,25 +1,25 @@
 [{
     "to": "Ralph",
-    "from": "secret Admirer1",
-    "message": "Slack me outside"
+    "from": "Friend1",
+    "message": "Slack me"
 },
 {
     "to": "Roy",
-    "from": "secret Admirer2",
+    "from": "Friend2",
     "message": "What's up"
 },
 {
     "to": "Roger",
-    "from": "secret Admirer3",
+    "from": "Friend3",
     "message": "Hey there"
 },
 {
     "to": "Nimitz",
-    "from": "secret Admirer4",
+    "from": "Friend4",
     "message": "Email me"
 },
 {
     "to": "Halsey",
-    "from": "secret Admirer5",
+    "from": "Friend5",
     "message": "Write me a letter" 
 }]
